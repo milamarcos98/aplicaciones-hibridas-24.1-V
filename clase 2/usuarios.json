@@ -1,0 +1,7 @@
+{
+    "usuarios":[
+        {"nombre": "Camila", "carrera": "multimedial"},
+        {"nombre": "Juan", "carrera": "web"},
+        {"nombre": "Pepe", "carrera": "web"}
+    ]
+}
