@@ -1,0 +1,20 @@
+.list__group{
+    background-color: lightgoldenrodyellow;
+    width: 150px;
+    border-radius: 5px;
+    margin: 1rem;
+    padding: 1rem;
+}
+.list__item{
+    background-color: lightpink;
+    margin-top: 1rem;
+    list-style-type: none;
+    border-radius: 5px;
+    width: calc(100% - 2rem);
+    padding: .5rem 1rem;
+    color: black;
+}
+
+.active{
+    background-color: lightblue;
+}
