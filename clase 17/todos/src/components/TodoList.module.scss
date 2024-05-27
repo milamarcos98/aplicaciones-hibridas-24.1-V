@@ -1,0 +1,45 @@
+.Todo {
+    background-color: rgb(140, 193, 209);
+    text-align: center;
+    width: 50%;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: auto;
+  }
+  
+  ul {
+    padding: 10px;
+    margin: 0;
+  }
+  
+  .btn {
+    width: 120px;
+    height: 35px;
+    background-color: rgb(148, 116, 186);
+    border: none;
+    font-size: 15px;
+    font-weight: 800;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  .input {
+    border: none;
+    width: 340px;
+    height: 35px;
+    border-radius: 9px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.453) 0px 3px 8px inset;
+  }
+  
+  .input_container {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+  }
+
+  li{
+    text-align: left;
+    padding: 10px;
+  }
+  
